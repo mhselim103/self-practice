@@ -9,4 +9,4 @@ function interest(m) {
     console.log(interest);
 }
 
-interest(150000);
+interest(150000); 
